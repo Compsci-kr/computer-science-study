@@ -18,5 +18,3 @@
 
 #### 실전 문제풀이
 * [백준져지](https://acmicpc.net)
-=======
-* [@xegns/5241](https://github.com/xegns/5241)
